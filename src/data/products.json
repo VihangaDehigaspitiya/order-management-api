@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "quantity": 5,
+      "price": 999.99
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "quantity": 10,
+      "price": 499.99
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "quantity": 20,
+      "price": 79.99
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "quantity": 15,
+      "price": 199.99
+    },
+    {
+      "id": 5,
+      "name": "Tablet",
+      "quantity": 8,
+      "price": 329.99
+    },
+    {
+      "id": 6,
+      "name": "Camera",
+      "quantity": 4,
+      "price": 649.99
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "quantity": 25,
+      "price": 49.99
+    },
+    {
+      "id": 8,
+      "name": "Monitor",
+      "quantity": 12,
+      "price": 299.99
+    },
+    {
+      "id": 9,
+      "name": "Keyboard",
+      "quantity": 30,
+      "price": 59.99
+    },
+    {
+      "id": 10,
+      "name": "Mouse",
+      "quantity": 40,
+      "price": 29.99
+    }
+  ]
+  
